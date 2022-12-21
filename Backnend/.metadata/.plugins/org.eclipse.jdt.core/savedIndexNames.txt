@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Java Fullstack\ProjectAkhir\Backnend\.metadata\.plugins\org.eclipse.jdt.core
+2870633536.index
